@@ -21,6 +21,20 @@ Data Types: Optimized numerical columns (int/float) and encoded categorical feat
 
 Quality Control: Achieved a null-free dataset ready for machine learning consumption.
 
+Task 2: Customer Segmentation Analysis](Task_2.ipynb)
+- Objective: Segment mall customers based on their annual income and spending patterns using clustering techniques.
+- Methodology: - Performed exploratory data analysis.
+    - Used the **Elbow Method** to determine the optimal number of clusters ($k=5$).
+    - Implemented **K-Means Clustering** to identify distinct customer groups.
+- Insights:The analysis identified 5 unique segments, including high-value "VIP" customers and budget-conscious segments, providing a foundation for targeted marketing strategies.
+
+ Technologies Used
+- Python
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Scikit-learn
+- Google Colab
+
 🚀 How to Run
 Ensure you have the required libraries installed: pip install pandas.
 
