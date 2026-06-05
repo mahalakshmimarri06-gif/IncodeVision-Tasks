@@ -35,9 +35,14 @@ Task 2: Customer Segmentation Analysis](Task_2.ipynb)
 - Scikit-learn
 - Google Colab
 
-🚀 How to Run
-Ensure you have the required libraries installed: pip install pandas.
+- Task 3: Sales Prediction Model
+This notebook implements a Random Forest Regressor to predict sales.
 
-Run the Jupyter notebook [Your_Notebook_Name].ipynb in a Google Colab or local environment.
+Dashboard Output:
+
+Note: The interactive dashboard widgets are functional in the Google Colab environment but may not render directly in the GitHub preview.
+<img width="1335" height="787" alt="image" src="https://github.com/user-attachments/assets/2d614bcf-6c09-41b8-b5ba-8f4033f7566c" />
+
+
 
 The final cleaned output is saved as final_cleaned_crime_data.csv.
